@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ScoreBoard</string>
+    <string name="first_innings">India Batting first</string>
+    <string name="ind">India</string>
+    <string name="pak">Pak</string>
+    <string name="indscore">0/0</string>
+    <string name="indPlayer1">Sharma</string>
+    <string name="indPlayer2">Rahul</string>
+    <string name="indPlayer3">Kohli</string>
+    <string name="pakscore">0/0</string>
+    <string name="pakPlayer1">Ahmad</string>
+    <string name="pakPlayer2">Akmal</string>
+    <string name="pakPlayer3">Azam</string>
+    <string name="batsmanStatus">not out</string>
+    <string name="batsmanRuns">0</string>
+    <string name="run0">0</string>
+    <string name="run1">1</string>
+    <string name="run2">2</string>
+    <string name="run3">3</string>
+    <string name="run4">4</string>
+    <string name="run5">5</string>
+    <string name="run6">6</string>
+    <string name="wicket">Out</string>
+    <string name="reset">Reset</string>
+</resources>
